@@ -1,0 +1,16 @@
+|mux4_1
+IN[0] => and_gate[0].IN0
+IN[1] => and_gate[1].IN0
+IN[2] => and_gate[2].IN0
+IN[3] => and_gate[3].IN0
+SEL[0] => and_gate[0].IN1
+SEL[0] => and_gate[2].IN1
+SEL[0] => and_gate[1].IN1
+SEL[0] => and_gate[3].IN1
+SEL[1] => and_gate[0].IN2
+SEL[1] => and_gate[1].IN2
+SEL[1] => and_gate[2].IN2
+SEL[1] => and_gate[3].IN2
+OUT <= or1.DB_MAX_OUTPUT_PORT_TYPE
+
+
