@@ -1,0 +1,8 @@
+vendor_name = ModelSim
+source_file = 1, C:/Hung/Year3/CE213/Practice/Test1.v
+source_file = 1, C:/Hung/Year3/CE213/Practice/db/Test1.cbx.xml
+design_name = Test1
+instance = comp, \x1~I , x1, Test1, 1
+instance = comp, \x2~I , x2, Test1, 1
+instance = comp, \f~0 , f~0, Test1, 1
+instance = comp, \f~I , f, Test1, 1
