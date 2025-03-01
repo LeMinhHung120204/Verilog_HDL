@@ -1,0 +1,29 @@
+|behave
+sum[0] <= <GND>
+sum[1] <= <GND>
+sum[2] <= <GND>
+sum[3] <= <GND>
+sum[4] <= <GND>
+sum[5] <= <GND>
+sum[6] <= <GND>
+sum[7] <= <GND>
+co <= <GND>
+a[0] => ~NO_FANOUT~
+a[1] => ~NO_FANOUT~
+a[2] => ~NO_FANOUT~
+a[3] => ~NO_FANOUT~
+a[4] => ~NO_FANOUT~
+a[5] => ~NO_FANOUT~
+a[6] => ~NO_FANOUT~
+a[7] => ~NO_FANOUT~
+b[0] => ~NO_FANOUT~
+b[1] => ~NO_FANOUT~
+b[2] => ~NO_FANOUT~
+b[3] => ~NO_FANOUT~
+b[4] => ~NO_FANOUT~
+b[5] => ~NO_FANOUT~
+b[6] => ~NO_FANOUT~
+b[7] => ~NO_FANOUT~
+ci => ~NO_FANOUT~
+
+
