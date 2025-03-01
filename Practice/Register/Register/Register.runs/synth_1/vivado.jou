@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Sun Feb 23 19:18:10 2025
+# Process ID: 15760
+# Current directory: C:/Hung/Year3/CE213/Verilog_HDL/Practice/Register/Register/Register.runs/synth_1
+# Command line: vivado.exe -log register.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source register.tcl
+# Log file: C:/Hung/Year3/CE213/Verilog_HDL/Practice/Register/Register/Register.runs/synth_1/register.vds
+# Journal file: C:/Hung/Year3/CE213/Verilog_HDL/Practice/Register/Register/Register.runs/synth_1\vivado.jou
+# Running On: DESKTOP-DA5EM0P, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 8, Host memory: 16948 MB
+#-----------------------------------------------------------
+source register.tcl -notrace
